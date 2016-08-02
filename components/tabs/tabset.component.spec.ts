@@ -167,7 +167,7 @@ describe('Component: Tabs', () => {
 });
 
 @Component({
-  selector: 'accordion-test',
+  selector: 'tabs-test',
   directives: [TabsetComponent, TabDirective, TabHeadingDirective],
   template: ''
 })
